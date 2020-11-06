@@ -42,4 +42,4 @@ jobs:
               dep ensure
           fi
       - name: Test
-        run: make all
+        run: make
